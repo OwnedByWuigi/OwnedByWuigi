@@ -19,5 +19,5 @@ for some reason if you want to contact me my Discord username is "10.15.7"
 <a href="https://github.com/OwnedByWuigi/srv03">wuigi's srv03</a> is another one of my projects, completely experimentational fork of the Server 2003 leaks to futureproof the OS
 
 
-<img src="https://github.com/sunvalley32/iso/raw/main/base/Untitled.jpg" height="100px">
+<img src="https://github.com/sunvalley32/iso/raw/main/Untitled.jpg" height="100px">
 <a href="https://github.com/sunvalley32/iso">sv32 (Sun Valley32)</a> is my latest project, nearly complete port of Windows 11 (21H2 original release) to the x86-32 architecture
