@@ -1,23 +1,17 @@
-# My bio
+17
 
-16y/o wannabe software engineer
+DEVELOPER
 
-for some reason if you want to contact me, Don't.
+NO CONTACTS
 
-# My primary projects
+# PROJECTS
 <img src="https://raw.githubusercontent.com/envyjs/.github/refs/heads/main/profile/setc.webp" height="100px">
 
-<a href="https://github.com/envyjs/os">Envy</a> is my main primary project, and I have been working on it since July 2022. It is a general showcase of my web development skills (JS and JQuery)
+<a href="https://github.com/envyjs/os">ENVY</a> IS MY PRIMARY PROJECT. WORKED ON SINCE 2022.
 
 <img src="https://github.com/pound-emu/pound/blob/main/resources/pound.png" height="100px">
 
-<a href="https://github.com/pound-emu/pound">Pound</a> is another project that I oversee, being the first real Nintendo Switch 2 emulator and has been actively developed since June 2025.
-
-
-<img src="https://github.com/OwnedByWuigi/srv03/raw/master/base/ntsetup/moricons/about256.bmp" height="100px">
-
-<a href="https://github.com/OwnedByWuigi/srv03">wuigi's srv03</a> is another one of my projects, completely experimentational fork of the Server 2003 leaks to futureproof the OS
-
+<a href="https://github.com/pound-emu/pound">POUND</a> IS A PROJECT I OVERSEE. SWITCH 1 AND 2 EMULATION.
 
 <img src="https://github.com/sunvalley32/iso/raw/main/Untitled.jpg" height="100px">
-<a href="https://github.com/sunvalley32/iso">sv32 (Sun Valley32)</a> is my latest project, nearly complete port of Windows 11 (21H2 original release) to the x86-32 architecture
+<a href="https://github.com/sunvalley32/iso">SV32</a> IS A PORT OF WINDOWS 11 (ORIGINAL RELEASE) TO X86-32.
