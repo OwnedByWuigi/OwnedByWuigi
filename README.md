@@ -12,4 +12,6 @@ I occasionally contribute to <a href="https://www.palemoon.org">UXP (Pale Moon a
 
 @wgiagain (discord)
 
+wuggy@billgates.sex (email)
+
 I do maintain accounts in other platforms, but I am not active there.
