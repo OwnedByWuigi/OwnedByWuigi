@@ -2,9 +2,7 @@
 
 student @ Exeter College
 
-member of <a href="https://eclipse.cx">Eclipse Community</a>, <a href="https://thereisonlyxul.org">thereisonlyxul.org</a> and <a href="https://binaryoutcast.com">Binary Outcast</a>
-
-lead <a href="https://github.com/Eclipse-Community/Dactyloidae">Dactyloidae</a> and <a href="https://github.com/Eclipse-Community/eUXP">eUXP</a> developer
+lead <a href="https://github.com/OwnedByWuigi/Dactyloidae">Dactyloidae</a> and <a href="https://github.com/OwnedByWuigi/discouNT">discouNT</a> developer
 
 <a href="https://code.binaryoutcast.com/thereisonlyxul/libxul">libXUL</a> contributor
 
