@@ -1,5 +1,7 @@
-Independent developer
+Independent developer, full time student.
 
-I do not work on any external projects unless I like it personally.
+[Dactyloidae](https://dactyloidae.xyz) owner
 
-discord: unyxv
+[LiberNT](https://libernt.com) contributor
+
+Main computer has been the Mac Pro 2013 since ~2021, running a dualboot of LiberNT and Windows 8.1
